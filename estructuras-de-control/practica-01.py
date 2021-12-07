@@ -1,3 +1,4 @@
+# Practica 01:
 # Enunciado: un restaurante ofrece un descuento del 10% para consumo de hasta 100.00 y 
 # un descuento del 20 % para consumos mayores, para ambos casos se aplica un impuesto del 19%. 
 # Determinar el monto del descuento, el impuesto y el importe a pagar.
@@ -7,6 +8,7 @@
 # monto del descuento
 # impuesto
 # importe a pagar
+# 
 
 consumo = int(input("Ingrese su consumo: "))
 
